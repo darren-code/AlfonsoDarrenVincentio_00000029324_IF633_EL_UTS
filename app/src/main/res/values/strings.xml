@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Artuno</string>
+    <string name="sign_in_text">Sign In</string>
+    <string name="profile_text">Profile</string>
+    <string name="password_placeholder">Password</string>
+    <string name="username_placeholder">Username</string>
+    <string name="uasmobilegenap_text">uasmobilegenap</string>
+    <string name="uasmobile_text">uasmobile</string>
+    <string name="music_text">Music</string>
+    <string name="music_title_text">Music Title</string>
+    <string name="duration_placeholder">00.00</string>
+</resources>
